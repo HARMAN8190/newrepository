@@ -257,7 +257,7 @@ Observed presentations from other groups and learned new insights and styles.-07
 
 
 
-7 July 2025
+7 July 2025-8 July 2025
 Topic: Introduction to HTML and Web Basics
 
 
@@ -308,3 +308,110 @@ Paragraph <p>, line break <br>, horizontal rule <hr>
 Reflection:
 
 Today I entered the world of web development. Understanding how a browser reads and displays HTML made me feel excited to build my own webpages. Writing a simple HTML page and viewing it in a browser was my first step toward becoming a web developer.
+
+
+
+
+
+
+
+ 9 July 2025
+ Topic: Portfolio Website Creation using HTML and CSS
+
+
+---
+
+Tasks Completed Over 2 Days:
+
+✅ 1. Planning the Portfolio Structure
+
+Designed the layout and structure for a multi-page portfolio website, including the following sections:
+
+Introduction / About Me
+
+Projects
+
+Skills
+
+Contact Me
+
+
+Created a folder structure for the website with separate HTML files and a CSS file.
+
+
+
+---
+
+✅ 2. Writing HTML Code
+
+Built four linked pages using <a href>:
+
+index.html (Introduction/Homepage)
+
+projects.html
+
+skills.html
+
+contact.html
+
+
+Used key semantic tags:
+
+<nav>, <header>, <section>, <footer>, <article>
+
+
+Included elements like:
+
+Images using <img src="..." alt="...">
+
+Lists for skills
+
+Tables and text content
+
+
+
+
+---
+
+✅ 3. Styling with CSS
+
+Created a separate style.css file and linked it using <link> in <head>.
+
+Used CSS for:
+
+Font styling (font-size, font-family, color)
+
+Backgrounds and layout
+
+Padding, margins, and borders
+
+Styling navigation bar and buttons
+
+
+
+
+---
+
+✅ 4. Forms and Inputs
+
+In the "Contact Me" page, added a functional HTML form:
+
+Inputs for name, email, gender (radio buttons), hobbies (checkboxes)
+
+Used <fieldset>, <legend>, <label>, <input>, <textarea>, <select>
+
+Submit and Reset buttons
+
+
+
+
+
+![WhatsApp Image 2025-07-14 at 11 12 19_f811f4e8](https://github.com/user-attachments/assets/55a799cb-f12d-4928-a9d9-f82b202ba41d)
+![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/79facf26-3f0a-487a-bd12-d5502a1bc3b3)
+![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/ea46ba51-a317-4867-a8fd-afa8551a9e2f)
+![WhatsApp Image 2025-07-14 at 11 12 20_54b7540c](https://github.com/user-attachments/assets/685c3e9c-652c-4a15-b848-17b7c5e98fcb)
+
+
+
+
+ 
