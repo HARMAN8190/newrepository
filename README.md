@@ -285,11 +285,7 @@ Topic: More HTML Tags and Linking Pages
 
 Work Done:
 
-Learned and practiced more tags like:
-
-<a>, <img>, <ul>, <ol>, <li>, <hr>, <br>
-
-
+Learned and practiced more tags 
 Learned how to link pages
 
 Created 2–3 simple HTML pages and linked them together.
