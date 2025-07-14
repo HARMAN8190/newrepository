@@ -319,11 +319,10 @@ Today I entered the world of web development. Understanding how a browser reads 
  Topic: Portfolio Website Creation using HTML and CSS
 
 
----
 
 Tasks Completed Over 2 Days:
 
-✅ 1. Planning the Portfolio Structure
+1. Planning the Portfolio Structure
 
 Designed the layout and structure for a multi-page portfolio website, including the following sections:
 
@@ -340,9 +339,7 @@ Created a folder structure for the website with separate HTML files and a CSS fi
 
 
 
----
-
-✅ 2. Writing HTML Code
+2. Writing HTML Code
 
 Built four linked pages using <a href>:
 
@@ -371,9 +368,7 @@ Tables and text content
 
 
 
----
-
-✅ 3. Styling with CSS
+ 3. Styling with CSS
 
 Created a separate style.css file and linked it using <link> in <head>.
 
@@ -390,9 +385,7 @@ Styling navigation bar and buttons
 
 
 
----
-
-✅ 4. Forms and Inputs
+ 4. Forms and Inputs
 
 In the "Contact Me" page, added a functional HTML form:
 
