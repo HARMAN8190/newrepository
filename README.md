@@ -200,7 +200,8 @@ Avoiding unknown attachments and links
 
 2 July 2025
 
-Topic: RJ45 Connector Crimping and LAN Cable Making
+Topic: RJ45 Connector Crimping and LAN Cable MakingReflection:
+Today’s session gave me hands-on experience with real network hardware. Making a LAN cable from scratch and testing it myself gave me confidence in handling basic network setup tasks.
 
 Tasks Completed:
 
@@ -213,5 +214,13 @@ Practiced stripping wires, aligning color pairs, and crimping RJ45 connectors us
 Tested the cable using a LAN cable tester for connectivity and fault detection.
 
 Understood the difference between straight-through and crossover cables, and their uses in networking.
+
+
+![WhatsApp Image 2025-07-14 at 11 00 46_6e74367a](https://github.com/user-attachments/assets/ae39f6f4-de90-4f0d-9a81-c8be91637da5)
+Reflection:
+Today’s session gave me hands-on experience with real network hardware. Making a LAN cable from scratch and testing it myself gave me confidence in handling basic network setup tasks.
+
+
+
 
 
