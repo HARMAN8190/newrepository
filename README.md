@@ -258,103 +258,22 @@ Observed presentations from other groups and learned new insights and styles.-07
 
 
 7 July 2025-8 July 2025
-Topic: Introduction to HTML and Web Basics
+Topic: Introduction to HTML
+
+Work Done:
+
+I learned what HTML is and how it is used to make web pages.
+
+Practiced writing a basic HTML structure with tags like:
+
+<html>, <head>, <title>, <body>
 
 
-Introduction to Web Technologies
+Used headings, paragraphs, and line breaks.
 
-Understood the basic structure of the World Wide Web and how web pages work.
-
-Learned about client-server architecture, including:
-
-Web browsers (client side)
-
-Web servers (server side)
-
-HTTP/HTTPS protocols
+Opened my HTML file in a browser to see the output.
 
 
-
- Introduction to HTML (HyperText Markup Language)
-
-Learned what HTML is and its importance in creating webpages.
-
-Understood the structure of an HTML document:
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My First Page</title>
-  </head>
-  <body>
-    <h1>Hello, World!</h1>
-  </body>
-</html>
-
-
-
-
- 9 July 2025 - 10 July 2025
- Topic: Portfolio Website Creation using HTML and CSS
-
-Planning the Portfolio Structure
-
-Designed the layout and structure for a multi-page portfolio website, including the following sections:
-
-Introduction / About Me
-
-Projects
-
-Skills
-
-Contact Me
-
-
-Created a folder structure for the website with separate HTML files and a CSS file.
-
-
-
-
-Writing HTML Code
-
-Built four linked pages using <a href>:
-
-index.html (Introduction/Homepage)
-
-projects.html
-
-skills.html
-
-contact.html
-
-
-
-
-Styling with CSS
-
-Created a separate style.css file and linked it using <link> in <head>.
-
-Used CSS for:
-
-Font styling (font-size, font-family, color)
-
-Backgrounds and layout
-
-Padding, margins, and borders
-
-Styling navigation bar and buttons
-
-Forms and Inputs
-
-In the "Contact Me" page, added a functional HTML form:
-
-Inputs for name, email, gender (radio buttons), hobbies (checkboxes)
-
-Used <fieldset>, <legend>, <label>, <input>, <textarea>, <select>
-
-Submit and Reset buttons
-
-
-
-
-![WhatsApp Image 2025-07-14 at 11 12 19_1dc6d381](https://github.com/user-attachments/assets/02b80acd-7006-42cd-a4dd-9a6c2a52e871)
+![WhatsApp Image 2025-07-14 at 11 07 44_6c2ce1c8](https://github.com/user-attachments/assets/3b967e5c-2fbd-47a9-8b5d-b04553c43c5a)
+Reflection:
+It was my first day learning web designing. I enjoyed writing code and seeing the result in the browser.
