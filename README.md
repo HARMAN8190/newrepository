@@ -277,3 +277,29 @@ Opened my HTML file in a browser to see the output.
 ![WhatsApp Image 2025-07-14 at 11 07 44_6c2ce1c8](https://github.com/user-attachments/assets/3b967e5c-2fbd-47a9-8b5d-b04553c43c5a)
 Reflection:
 It was my first day learning web designing. I enjoyed writing code and seeing the result in the browser.
+
+
+8 July 2025
+
+Topic: More HTML Tags and Linking Pages
+
+Work Done:
+
+Learned and practiced more tags like:
+
+<a>, <img>, <ul>, <ol>, <li>, <hr>, <br>
+
+
+Learned how to link pages using <a href="...">.
+
+Created 2–3 simple HTML pages and linked them together.
+
+Added an image and used heading and list tags.
+
+
+Reflection:
+Linking pages was fun. I understood how websites connect different pages together.
+
+![WhatsApp Image 2025-07-14 at 11 29 43_789e8d3e](https://github.com/user-attachments/assets/b4cce87c-b90c-4623-bc9a-cc7216f40887)
+![WhatsApp Image 2025-07-14 at 11 29 43_c52c99b6](https://github.com/user-attachments/assets/61b2316c-284a-48b8-84f9-2152af2c8118)
+
