@@ -265,7 +265,7 @@ Topic: Introduction to HTML and Web Basics
 
 Tasks Completed:
 
-✅ 1. Introduction to Web Technologies
+1. Introduction to Web Technologies
 
 Understood the basic structure of the World Wide Web and how web pages work.
 
@@ -279,7 +279,7 @@ HTTP/HTTPS protocols
 
 
 
-✅ 2. Introduction to HTML (HyperText Markup Language)
+2. Introduction to HTML (HyperText Markup Language)
 
 Learned what HTML is and its importance in creating webpages.
 
@@ -296,7 +296,7 @@ Understood the structure of an HTML document:
 </html>
 
 
-✅ 3. Basic HTML Tags Practiced
+3. Basic HTML Tags Practiced
 
 <html>, <head>, <title>, <body>
 
