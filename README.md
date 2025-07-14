@@ -315,14 +315,10 @@ Today I entered the world of web development. Understanding how a browser reads 
 
 
 
- 9 July 2025
+ 9 July 2025 - 10 July 2025
  Topic: Portfolio Website Creation using HTML and CSS
 
-
-
-Tasks Completed Over 2 Days:
-
-1. Planning the Portfolio Structure
+Planning the Portfolio Structure
 
 Designed the layout and structure for a multi-page portfolio website, including the following sections:
 
@@ -339,7 +335,8 @@ Created a folder structure for the website with separate HTML files and a CSS fi
 
 
 
-2. Writing HTML Code
+
+Writing HTML Code
 
 Built four linked pages using <a href>:
 
@@ -352,23 +349,9 @@ skills.html
 contact.html
 
 
-Used key semantic tags:
-
-<nav>, <header>, <section>, <footer>, <article>
 
 
-Included elements like:
-
-Images using <img src="..." alt="...">
-
-Lists for skills
-
-Tables and text content
-
-
-
-
- 3. Styling with CSS
+Styling with CSS
 
 Created a separate style.css file and linked it using <link> in <head>.
 
@@ -382,10 +365,7 @@ Padding, margins, and borders
 
 Styling navigation bar and buttons
 
-
-
-
- 4. Forms and Inputs
+Forms and Inputs
 
 In the "Contact Me" page, added a functional HTML form:
 
@@ -394,15 +374,8 @@ Inputs for name, email, gender (radio buttons), hobbies (checkboxes)
 Used <fieldset>, <legend>, <label>, <input>, <textarea>, <select>
 
 Submit and Reset buttons
-![WhatsApp Image 2025-07-14 at 11 12 19_5bfa3ddf](https://github.com/user-attachments/assets/3808f190-5e28-4f90-a66d-fce09f35e29c)
-![WhatsApp Image 2025-07-14 at 11 12 20_88188dc3](https://github.com/user-attachments/assets/b67ffaa2-250f-4307-b425-d0377b8c4be2)
-![WhatsApp Image 2025-07-14 at 11 12 21_eeb603b9](https://github.com/user-attachments/assets/d2248882-6858-4eb1-ba15-845a4e74215c)
-![WhatsApp Image 2025-07-14 at 11 12 20_ebae8d00](https://github.com/user-attachments/assets/7b9df236-cfb9-45f6-8c35-44745f9900ca)
 
 
 
 
-
-
-
- 
+![WhatsApp Image 2025-07-14 at 11 12 19_1dc6d381](https://github.com/user-attachments/assets/02b80acd-7006-42cd-a4dd-9a6c2a52e871)
