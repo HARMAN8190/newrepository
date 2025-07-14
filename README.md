@@ -361,3 +361,80 @@ Finalized all 4 pages and checked in the browser.
 
 Reflection:
 I completed my first full website! I used both HTML and CSS and learned how websites are made from scratch.
+
+11 July 20225
+Topic: Introduction to Git and Basic Commands
+
+Work Done:
+
+Learned what Git is and why it is used for version control.
+
+Understood how developers save and track changes in code.
+
+Practiced basic Git commands like:
+
+git init – to create a Git repo
+
+git add – to add files
+
+git commit – to save changes
+
+git status – to check file status
+
+
+Learned how to check commit history using git log.
+
+![WhatsApp Image 2025-07-14 at 11 35 02_a63ba4ab](https://github.com/user-attachments/assets/69e2a99f-0fc4-4495-9693-b3b519c21265)
+
+
+![WhatsApp Image 2025-07-14 at 11 35 02_cf183207](https://github.com/user-attachments/assets/46faa729-e97c-4207-838f-f587a4d284a5)
+
+![WhatsApp Image 2025-07-14 at 11 35 03_19e10340](https://github.com/user-attachments/assets/1017c54e-8cf7-4a02-906a-1acbf5a7c4bd)
+
+![WhatsApp Image 2025-07-14 at 11 35 16_9496da6f](https://github.com/user-attachments/assets/0b7db8bb-4848-4f7d-a924-24adf73681a6)
+
+![WhatsApp Image 2025-07-14 at 11 35 16_763b4a96](https://github.com/user-attachments/assets/e25cff06-9f94-4275-b2ef-4f9e2b9abbd4)
+Topic: GitHub, Branching, and Remote Repository
+
+Work Done:
+
+Learned the difference between Git and GitHub.
+
+Created a GitHub account and made a new repository.
+
+Connected my local Git to GitHub using:
+
+git remote add origin
+
+git push and git pull commands
+
+
+Also practiced:
+
+Creating new branches
+
+Merging branches using git merge
+
+Solving small merge conflicts
+
+![WhatsApp Image 2025-07-14 at 11 35 17_ec62ab4b](https://github.com/user-attachments/assets/124d201c-1019-42f9-a5b6-9f0f243fbb12)
+![WhatsApp Image 2025-07-14 at 11 35 17_5280dff2](https://github.com/user-attachments/assets/441e0fad-9c4a-4fea-aa9e-645b53569861)
+![WhatsApp Image 2025-07-14 at 11 35 17_5228b528](https://github.com/user-attachments/assets/d9b38bdf-d1df-4785-b0a6-94c7c71e3b77)
+![WhatsApp Image 2025-07-14 at 11 35 18_7e8ec32e](https://github.com/user-attachments/assets/0144b852-7d2b-4ec4-8e0c-869e4358df94)
+
+
+
+
+
+
+
+
+
+
+
+Reflection:
+Uploading my code to GitHub was a good experience. I learned how developers share code online and work in teams using branches.
+
+
+
+
