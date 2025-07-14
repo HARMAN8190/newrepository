@@ -223,4 +223,33 @@ Today’s session gave me hands-on experience with real network hardware. Making
 
 
 
+3 July - 4 July 2025
 
+
+Tasks Completed:
+
+Divided into groups to create a PowerPoint presentation covering topics from Module 1:
+
+Linux basics
+
+Shell scripting
+
+System components
+
+Networking tools like RJ45
+
+
+Worked on slides with bullet points, diagrams, and examples.
+
+Practiced public speaking and technical explanation skills.
+
+Delivered our presentations in class and received feedback from faculty and peers.
+
+Observed presentations from other groups and learned new insights and styles.-07-14 at 11 04 04_2079750b](https://github.com/user-attachments/assets/66484836-4137-4b9e-a24e-1e09e783c2cc)
+
+
+
+![WhatsApp Image 2025Topic: Presentation Preparation and Delivery (Module 1 Recap)
+
+
+![WhatsApp Image 2025-07-14 at 11 04 04_4dff1cfe](https://github.com/user-attachments/assets/194c0175-e51e-4a54-9f17-02682f5f42d4)
