@@ -401,11 +401,6 @@ Inputs for name, email, gender (radio buttons), hobbies (checkboxes)
 Used <fieldset>, <legend>, <label>, <input>, <textarea>, <select>
 
 Submit and Reset buttons
-
-
-
-
-
 ![WhatsApp Image 2025-07-14 at 11 12 19_f811f4e8](https://github.com/user-attachments/assets/55a799cb-f12d-4928-a9d9-f82b202ba41d)
 ![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/79facf26-3f0a-487a-bd12-d5502a1bc3b3)
 ![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/ea46ba51-a317-4867-a8fd-afa8551a9e2f)
