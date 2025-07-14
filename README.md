@@ -290,7 +290,7 @@ Learned and practiced more tags like:
 <a>, <img>, <ul>, <ol>, <li>, <hr>, <br>
 
 
-Learned how to link pages using <a href="...">.
+Learned how to link pages
 
 Created 2–3 simple HTML pages and linked them together.
 
