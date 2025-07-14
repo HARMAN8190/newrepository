@@ -253,3 +253,58 @@ Observed presentations from other groups and learned new insights and styles.-07
 
 
 ![WhatsApp Image 2025-07-14 at 11 04 04_4dff1cfe](https://github.com/user-attachments/assets/194c0175-e51e-4a54-9f17-02682f5f42d4)
+
+
+
+
+7 July 2025
+Topic: Introduction to HTML and Web Basics
+
+
+---
+
+Tasks Completed:
+
+✅ 1. Introduction to Web Technologies
+
+Understood the basic structure of the World Wide Web and how web pages work.
+
+Learned about client-server architecture, including:
+
+Web browsers (client side)
+
+Web servers (server side)
+
+HTTP/HTTPS protocols
+
+
+
+✅ 2. Introduction to HTML (HyperText Markup Language)
+
+Learned what HTML is and its importance in creating webpages.
+
+Understood the structure of an HTML document:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Page</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
+
+
+✅ 3. Basic HTML Tags Practiced
+
+<html>, <head>, <title>, <body>
+
+Heading tags: <h1> to <h6>
+
+
+Paragraph <p>, line break <br>, horizontal rule <hr>
+![WhatsApp Image 2025-07-14 at 11 07 44_cafd112b](https://github.com/user-attachments/assets/8e7fa803-1d9d-487c-bb02-1d4305a026f2)
+Reflection:
+
+Today I entered the world of web development. Understanding how a browser reads and displays HTML made me feel excited to build my own webpages. Writing a simple HTML page and viewing it in a browser was my first step toward becoming a web developer.
