@@ -257,7 +257,7 @@ Observed presentations from other groups and learned new insights and styles.-07
 
 
 
-## 7 July 2025-8 July 2025
+## 7 July 2025
 Topic: Introduction to HTML
 
 Work Done:
