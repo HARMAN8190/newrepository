@@ -401,10 +401,13 @@ Inputs for name, email, gender (radio buttons), hobbies (checkboxes)
 Used <fieldset>, <legend>, <label>, <input>, <textarea>, <select>
 
 Submit and Reset buttons
-![WhatsApp Image 2025-07-14 at 11 12 19_f811f4e8](https://github.com/user-attachments/assets/55a799cb-f12d-4928-a9d9-f82b202ba41d)
-![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/79facf26-3f0a-487a-bd12-d5502a1bc3b3)
-![WhatsApp Image 2025-07-14 at 11 12 20_c1ca822f](https://github.com/user-attachments/assets/ea46ba51-a317-4867-a8fd-afa8551a9e2f)
-![WhatsApp Image 2025-07-14 at 11 12 20_54b7540c](https://github.com/user-attachments/assets/685c3e9c-652c-4a15-b848-17b7c5e98fcb)
+![WhatsApp Image 2025-07-14 at 11 12 19_5bfa3ddf](https://github.com/user-attachments/assets/3808f190-5e28-4f90-a66d-fce09f35e29c)
+![WhatsApp Image 2025-07-14 at 11 12 20_88188dc3](https://github.com/user-attachments/assets/b67ffaa2-250f-4307-b425-d0377b8c4be2)
+![WhatsApp Image 2025-07-14 at 11 12 21_eeb603b9](https://github.com/user-attachments/assets/d2248882-6858-4eb1-ba15-845a4e74215c)
+![WhatsApp Image 2025-07-14 at 11 12 20_ebae8d00](https://github.com/user-attachments/assets/7b9df236-cfb9-45f6-8c35-44745f9900ca)
+
+
+
 
 
 
