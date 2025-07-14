@@ -195,3 +195,23 @@ Avoiding unknown attachments and links
 
 
 
+
+
+
+2 July 2025
+
+Topic: RJ45 Connector Crimping and LAN Cable Making
+
+Tasks Completed:
+
+Studied RJ45 connectors and Ethernet cables (Cat5e/Cat6).
+
+Learned about T568A and T568B color coding standards.
+
+Practiced stripping wires, aligning color pairs, and crimping RJ45 connectors using crimping tools.
+
+Tested the cable using a LAN cable tester for connectivity and fault detection.
+
+Understood the difference between straight-through and crossover cables, and their uses in networking.
+
+
