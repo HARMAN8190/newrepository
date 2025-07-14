@@ -303,3 +303,61 @@ Linking pages was fun. I understood how websites connect different pages togethe
 ![WhatsApp Image 2025-07-14 at 11 29 43_789e8d3e](https://github.com/user-attachments/assets/b4cce87c-b90c-4623-bc9a-cc7216f40887)
 ![WhatsApp Image 2025-07-14 at 11 29 43_c52c99b6](https://github.com/user-attachments/assets/61b2316c-284a-48b8-84f9-2152af2c8118)
 
+9 July 2025
+Topic: Started My Portfolio Website – Part 1
+
+Work Done:
+
+Started creating my personal portfolio using HTML.
+
+Made 4 pages:
+
+1. Introduction
+
+
+2. Projects
+
+
+3. Skills
+
+
+4. Contact Me
+
+
+
+Wrote text using paragraphs and headings.
+
+Linked all pages together using buttons or links.
+
+Reflection:
+Making my own portfolio made me feel confident. I was able to design something with my own name and skills.
+
+
+
+
+ 10 July 2025
+ Topic: Completed Portfolio Website – Part 2
+
+Work Done:
+
+Styled my portfolio using CSS.
+
+Changed text color, background color, and font sizes.
+
+Added a form on the "Contact Me" page with:
+
+Name, Email, Gender, Hobbies, and a Submit button.
+
+
+Finalized all 4 pages and checked in the browser.
+
+![WhatsApp Image 2025-07-14 at 11 31 56_da25069e](https://github.com/user-attachments/assets/6e47ea3c-0edb-475e-bf59-daf2904bcbc4)
+![WhatsApp Image 2025-07-14 at 11 31 57_8fb349c3](https://github.com/user-attachments/assets/ac873270-eb68-4ded-a517-af2b3d373f7e)
+![WhatsApp Image 2025-07-14 at 11 31 57_9d2c1012](https://github.com/user-attachments/assets/65cacd21-62dd-4017-ada2-aecedadf3366)
+![WhatsApp Image 2025-07-14 at 11 31 57_c36cf13d](https://github.com/user-attachments/assets/8b75e826-ed1b-4774-84e4-e02c1f3c3db5)
+
+
+
+
+Reflection:
+I completed my first full website! I used both HTML and CSS and learned how websites are made from scratch.
