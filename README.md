@@ -157,5 +157,41 @@ Re-installing OS or using recovery tools
 Reflection:
 Understanding how the system boots up helped me realize how even small misconfigurations can prevent the OS from loading. Knowing how to troubleshoot such issues is essential for both hardware and system-level support.
 
+IP Addressing and Subnetting
+
+Learned the basics of IP Addresses – IPv4 format (e.g., 192.168.1.1).
+
+Understood the concept of Classes of IP: A, B, C, D, E
+
+Practiced Subnetting: dividing networks for better traffic handling and security.
+
+Solved subnetting problems using subnet masks like 255.255.255.0, /24, etc.
+Networking Commands
+
+Used Windows and Linux commands for basic networking checks:
+
+ipconfig – View system IP settings (Windows)
+
+ifconfig – View system IP settings (Linux)
+
+ping – Test connectivity with a host
+
+tracert / traceroute – Trace the route taken by packets
+Computer Viruses & Malware
+
+Studied types of viruses, trojans, worms, ransomware, spyware.
+
+Discussed symptoms of infected systems: system lag, popup ads, corrupted files, etc.
+
+Learned about antivirus tools and prevention methods:
+
+Regular updates
+
+Firewalls
+
+Avoiding unknown attachments and links
+![WhatsApp Image 2025-07-14 at 10 39 46_9bac0bee](https://github.com/user-attachments/assets/1d66226f-8b27-4bef-ae66-77ad9d39b473)
+![WhatsApp Image 2025-07-14 at 10 39 46_0573292f](https://github.com/user-attachments/assets/9542fbf2-accb-4667-b950-cd6efb0e4eaa)
+
 
 
