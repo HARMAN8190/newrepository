@@ -29,7 +29,7 @@ Today I explored the Linux environment and understood how to install it on diffe
 
 
 
-27 June 2025
+## 27 June 2025
 Topic: Linux Shell and BASH – Basics of Command Line Interface
 
 Tasks Completed:
@@ -69,7 +69,7 @@ It was interesting to use the Linux terminal. I now understand how to move throu
 
 
 
-30 June 2025
+## 30 June 2025
 Topic: System Opening and Internal Hardware Overview
 
 Tasks Completed:
@@ -115,7 +115,7 @@ Today’s practical session was very insightful. Opening the CPU cabinet gave me
 
 
 
-1 July 2025
+## 1 July 2025
 
 Topic: Booting Process and Common Boot Issues
 
@@ -198,7 +198,7 @@ Avoiding unknown attachments and links
 
 
 
-2 July 2025
+## 2 July 2025
 
 Topic: RJ45 Connector Crimping and LAN Cable MakingReflection:
 Today’s session gave me hands-on experience with real network hardware. Making a LAN cable from scratch and testing it myself gave me confidence in handling basic network setup tasks.
@@ -223,7 +223,7 @@ Today’s session gave me hands-on experience with real network hardware. Making
 
 
 
-3 July - 4 July 2025
+## 3 July - 4 July 2025
 
 
 Tasks Completed:
@@ -257,7 +257,7 @@ Observed presentations from other groups and learned new insights and styles.-07
 
 
 
-7 July 2025-8 July 2025
+## 7 July 2025-8 July 2025
 Topic: Introduction to HTML
 
 Work Done:
@@ -279,7 +279,7 @@ Reflection:
 It was my first day learning web designing. I enjoyed writing code and seeing the result in the browser.
 
 
-8 July 2025
+## 8 July 2025
 
 Topic: More HTML Tags and Linking Pages
 
@@ -303,7 +303,7 @@ Linking pages was fun. I understood how websites connect different pages togethe
 ![WhatsApp Image 2025-07-14 at 11 29 43_789e8d3e](https://github.com/user-attachments/assets/b4cce87c-b90c-4623-bc9a-cc7216f40887)
 ![WhatsApp Image 2025-07-14 at 11 29 43_c52c99b6](https://github.com/user-attachments/assets/61b2316c-284a-48b8-84f9-2152af2c8118)
 
-9 July 2025
+## 9 July 2025
 Topic: Started My Portfolio Website – Part 1
 
 Work Done:
@@ -335,7 +335,7 @@ Making my own portfolio made me feel confident. I was able to design something w
 
 
 
- 10 July 2025
+## 10 July 2025
  Topic: Completed Portfolio Website – Part 2
 
 Work Done:
@@ -362,7 +362,7 @@ Finalized all 4 pages and checked in the browser.
 Reflection:
 I completed my first full website! I used both HTML and CSS and learned how websites are made from scratch.
 
-11 July 20225
+## 11 July 2025-14 July 2025
 Topic: Introduction to Git and Basic Commands
 
 Work Done:
