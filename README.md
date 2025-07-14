@@ -292,23 +292,6 @@ Understood the structure of an HTML document:
 </html>
 
 
- Basic HTML Tags Practiced
-
-<html>, <head>, <title>, <body>
-
-Heading tags: <h1> to <h6>
-
-
-Paragraph <p>, line break <br>, horizontal rule <hr>
-![WhatsApp Image 2025-07-14 at 11 07 44_cafd112b](https://github.com/user-attachments/assets/8e7fa803-1d9d-487c-bb02-1d4305a026f2)
-Reflection:
-
-Today I entered the world of web development. Understanding how a browser reads and displays HTML made me feel excited to build my own webpages. Writing a simple HTML page and viewing it in a browser was my first step toward becoming a web developer.
-
-
-
-
-
 
 
  9 July 2025 - 10 July 2025
